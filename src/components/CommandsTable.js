@@ -49,6 +49,9 @@ function CommandsTable() {
         <div id="commands" className="main-black-div">
 
             <h2>Commands</h2>
+            <div className="white-text">
+                Double click on any command to copy it to clipbooard.
+            </div>
             <div className="table-header">
                 <div className="every-command-row">
                     Name
