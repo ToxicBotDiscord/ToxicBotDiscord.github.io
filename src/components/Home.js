@@ -18,12 +18,12 @@ function Home() {
                     -- Help&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;={">"} tb Help <br />
                     -- Display Queue ={">"} tb Queue <br />
                     -- Disconnect&nbsp;&nbsp;&nbsp;&nbsp; ={">"} tb (dc / leave) <br />
-                    -- tb rm / tb remove removes the last added meme. <br />
+                    -- tb rm / tb remove removes the last added meme <br />
                     -- tb clrq / tb clearqueue clears the Queue. 
 
                 </div>
             </div>
-            <a href="https://discord.com/oauth2/authorize?client_id=767652353171652629&permissions=0&scope=bot" > 
+            <a href="https://discord.com/api/oauth2/authorize?client_id=767652353171652629&permissions=8&scope=bot" > 
                 <button className="add-bot-button">
                     <h2>Add to your server </h2>
                 </button>
