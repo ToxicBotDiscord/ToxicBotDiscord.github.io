@@ -18,7 +18,7 @@ function Home() {
                     -- Help&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;={">"} tb Help <br />
                     -- Display Queue ={">"} tb Queue <br />
                     -- Disconnect&nbsp;&nbsp;&nbsp;&nbsp; ={">"} tb (dc / leave) <br />
-                    -- tb rm / tb remove removes the last added meme <br />
+                    -- tb rm / tb remove removes the last added meme. <br />
                     -- tb clrq / tb clearqueue clears the Queue. 
 
                 </div>
