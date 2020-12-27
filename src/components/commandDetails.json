@@ -1,0 +1,351 @@
+[
+    {
+        "id" : 1,
+        "name" : "Bhavnao Ko Daalo Gand Mai",
+        "shortCommand" : "bhavnao",
+        "longCommand" : "apnibhavnaokodaalo"
+    },
+
+    {
+        "id" : 2,
+        "name" : "Apni Maa Maat Chudao",
+        "shortCommand" : "maachudao",
+        "longCommand" : "apnimaamaatchudao"
+    },
+
+    {
+        "id" : 3,
+        "name" : "Arey Maa Chudi Padi Hai",
+        "shortCommand" : "maachudi",
+        "longCommand" : "areymaachudipadihai"
+    },
+
+    {
+        "id" : 4,
+        "name" : "Bik Gayi Hai Gormint",
+        "shortCommand" : "gormint",
+        "longCommand" : "bikgayihaigormint"
+    },
+
+    {
+        "id" : 5,
+        "name" : "Bol Na Aunty Aau Kya",
+        "shortCommand" : "aunty",
+        "longCommand" : "bolnaauntyaaukya"        
+    },
+
+    {
+        "id" : 6,
+        "name" : "BSDK Teri Gaand Mai Daal Dunga",
+        "shortCommand" : "gand",
+        "longCommand" : "terigandmaidaalduga"
+    },
+
+    {
+        "id" : 7,
+        "name" : "Chal Bsdk",
+        "shortCommand" : "chalbsdk",
+        "longCommand" : "chalbhosdike"
+    },
+
+    {
+        "id" : 8,
+        "name" : "Chup Bilkul Chup",
+        "shortCommand" : "chup",
+        "longCommand" : "chupbilkulchup"
+    },
+
+    {
+        "id" : 9,
+        "name" : "Desh Sankat Mai Hai",
+        "shortCommand" : "desh",
+        "longCommand" : "deshsankatmaihai"
+    },
+
+    {
+        "id" : 10,
+        "name" : "Dhat Teri Mkc",
+        "shortCommand" : "dhatmkc",
+        "longCommand" : "dhatterimaaki"
+    },
+
+    {
+        "id" : 11,
+        "name" : "Janta Maaf Nhi Karegi",
+        "shortCommand" : "janta",
+        "longCommand" : "jantamaafnhikaregi"
+    },
+
+    {
+        "id" : 12,
+        "name" : "Kaun Hai Yeh Log",
+        "shortCommand" : "log",
+        "longCommand" : "kaunhaiyehlog"
+    },
+
+    {
+        "id" : 13,
+        "name" : "Kehna Kya Chahte Hoo",
+        "shortCommand" : "kehna",
+        "longCommand" : "kehnakyachahtehoo"
+    },
+
+    {
+        "id" : 14,
+        "name" : "Maa Ka Bsda Mc",
+        "shortCommand" : "mkbmc",
+        "longCommand" : "maakabhosdamc"
+    },
+
+    {
+        "id" : 15,
+        "name" : "Mai Mc Hu",
+        "shortCommand" : "mchu",
+        "longCommand" : "maimchu"
+    },
+
+    {
+        "id" : 16,
+        "name" : "Neta Neta Tesri Manjil Pe Rehta",
+        "shortCommand" : "neta",
+        "longCommand" : "netaneta"
+    },
+
+    {
+        "id" : 17,
+        "name" : "Pehli Fursat Me Nikal Laude",
+        "shortCommand" : "nikal",
+        "longCommand" : "nikallaude"
+    },
+
+    {
+        "id" : 18,
+        "name" : "Bsdk Mc Bhen Ke Lode",
+        "shortCommand" : "toxic",
+        "longCommand" : "rawdiesgaali"
+    },
+
+    {
+        "id" : 19,
+        "name" : "Saare Mil kar Mc Banare",
+        "shortCommand" : "mcbanare",
+        "longCommand" : "saaremilkarmcbaanare"
+    },
+
+    {
+        "id" : 20,
+        "name" : "Sach Bolde BSDK",
+        "shortCommand" : "sach",
+        "longCommand" : "sachboldebsdk"
+    },
+
+    {
+        "id" : 21,
+        "name" : "Sharam Karo Bhagwan Se Daro",
+        "shortCommand" : "daro",
+        "longCommand" : "bhagwansedaaro"
+    },
+
+    {
+        "id" : 22,
+        "name" : "Teri Maa Disco Gayi Thi",
+        "shortCommand" : "disco",
+        "longCommand" : "terimaadisco"
+    },
+
+    {
+        "id" : 23,
+        "name" : "Teri Maa Kurkure Kha Ke Paida Ki",
+        "shortCommand" : "kurkure",
+        "longCommand" : "terimaakurkure"
+    },
+
+    {
+        "id" : 24,
+        "name" : "Tumse Na Ho Payega",
+        "shortCommand" : "nahopayega",
+        "longCommand" : "tumsenahopayega"
+    },
+
+    {
+        "id" : 25,
+        "name" : "What WTF",
+        "shortCommand" : "wtf",
+        "longCommand" : "whatwtf"
+    },
+
+    {
+        "id" : 26,
+        "name" : "Yeh Koi Rk Hai",
+        "shortCommand" : "rk",
+        "longCommand" : "yehkoirkhai"
+    },
+
+    {
+        "id" : 27,
+        "name" : "Yeh Toh Tatti Hai",
+        "shortCommand" : "tatti",
+        "longCommand" : "yehtohtattihai"
+    },
+
+    {
+        "id" : 28,
+        "name" : "Salam Ali kum",
+        "shortCommand" : "salam",
+        "longCommand" : "salamalikum"
+    },
+
+    {
+        "id" : 29,
+        "name" : "Teri MKC",
+        "shortCommand" : "mkc",
+        "longCommand" : "terimkc"
+    },
+
+    {
+        "id" : 30,
+        "name" : "Dil Waale Puchde Ne",
+        "shortCommand" : "oooo",
+        "longCommand" : "dilwaale"
+    },
+
+    {
+        "id" : 31,
+        "name" : "Nahi Munna Bhai Mbbs",
+        "shortCommand" : "nai",
+        "longCommand" : "nahi"
+    },
+
+    {
+        "id" : 32,
+        "name" : "Malum Hai Apne Baap Ko Mat Sikha",
+        "shortCommand" : "matsikha",
+        "longCommand" : "baapkomatsikha"
+    },
+
+    {
+        "id" : 33,
+        "name" : "Abey Saale",
+        "shortCommand" : "saale",
+        "longCommand" : "abeysaale"
+    },
+
+    {
+        "id" : 34,
+        "name" : "Padhai Likhai Mai Dhyan Lagao",
+        "shortCommand" : "padhai",
+        "longCommand" : "padhailikhai"
+    },
+
+    {
+        "id" : 35,
+        "name" : "Zinda Toh Jhaat Ke Baal Bhi Hai",
+        "shortCommand" : "jhaatkebaal",
+        "longCommand" : "zindatohbaalbhihai"
+    },
+
+    {
+        "id" : 36,
+        "name" : "Gand Naa Phulao Mc Denge",
+        "shortCommand" : "mcdenge",
+        "longCommand" : "gandnaphulao"
+    },
+
+    {
+        "id" : 37,
+        "name" : "Chacha Ohh Bsdwale Chacha",
+        "shortCommand" : "chacha",
+        "longCommand" : "bsdkchacha"
+    },
+
+    {
+        "id" : 38,
+        "name" : "Arey Music Band Karo Zaara",
+        "shortCommand" : "musicband",
+        "longCommand" : "musicbandkaro"
+    },
+
+    {
+        "id" : 39,
+        "name" : "Thoda Rest Kar Lijiye",
+        "shortCommand" : "rip",
+        "longCommand" : "restkro"
+    },
+
+    {
+        "id" : 40,
+        "name" : "Kise Keh Raha Hai Bsdk",
+        "shortCommand" : "kkrh",
+        "longCommand" : "kisekehrha"
+    },
+
+    {
+        "id" : 41,
+        "name" : "Sorry Sorry",
+        "shortCommand" : "sorry",
+        "longCommand" : "sorryraga"
+    },
+
+    {
+        "id" : 42,
+        "name" : "Lauda Phek Ke Maruga",
+        "shortCommand" : "purakhandan",
+        "longCommand" : "laudaphekke"
+    },
+
+    {
+        "id" : 43,
+        "name" : "Ohhhhhhhh",
+        "shortCommand" : "oh",
+        "longCommand" : "ohh"
+    },
+
+    {
+        "id" : 44,
+        "name" : "Patt Se Headshot",
+        "shortCommand" : "headshot",
+        "longCommand" : "pattseheadshot"
+    },
+
+    {
+        "id" : 45,
+        "name" : "Maro Mujhe Maro",
+        "shortCommand" : "mmm",
+        "longCommand" : "mujhemaro"
+    },
+
+    {
+        "id" : 46,
+        "name" : "Matlab Kuch Bhi",
+        "shortCommand" : "kuchbhi",
+        "longCommand" : "matlabkuchbhi"
+    },
+
+    {
+        "id" : 47,
+        "name" : "Its Her Choice",
+        "shortCommand" : "herchoice",
+        "longCommand" : "itsherchoice"
+    },
+
+    {
+        "id" : 48,
+        "name" : "Bura Lagta Hai Bhai",
+        "shortCommand" : "dilsebura",
+        "longCommand" : "buralagtahai"
+    },
+
+    {
+        "id" : 49,
+        "name" : "Ek Dabba Guu",
+        "shortCommand" : "dabbagu",
+        "longCommand" : "ekdabbagu"
+    },
+
+    {
+        "id" : 50,
+        "name" : "Lund Insaan",
+        "shortCommand" : "lund",
+        "longCommand" : "lundinsaan"
+    }
+]
