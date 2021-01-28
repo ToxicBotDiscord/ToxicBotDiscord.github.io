@@ -7,7 +7,7 @@ function Home() {
             <h1>Toxic Bot</h1>
             <div className="description-div">
                 <div className="image-div">
-                    <img src="https://i.ibb.co/7tynPG9/Logo.jpg" className="logo-image" ></img>
+                    <img src="https://i.ibb.co/7tynPG9/Logo.jpg" alt="Logo" className="logo-image" ></img>
                 </div>
                 <div className="description-text">
                     A discord Bot to play some of the most famous meme dialogues and songs out there !!!! <br /> <br />
