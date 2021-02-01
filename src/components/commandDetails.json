@@ -347,5 +347,117 @@
         "name" : "Lund Insaan",
         "shortCommand" : "lund",
         "longCommand" : "lundinsaan"
+    },
+
+    {
+        "id" : 51,
+        "name" : "200 Mai Bik Jayega",
+        "shortCommand" : "dosau",
+        "longCommand" : "bikjayega"
+    },
+
+    {
+        "id" : 52,
+        "name" : "Haag diye",
+        "shortCommand" : "hagdiye",
+        "longCommand" : "chotisibaat"
+    },
+
+    {
+        "id" : 53,
+        "name" : "Duniya Mc hai Carryminati",
+        "shortCommand" : "mcthi",
+        "longCommand" : "duniyamc"
+    },
+
+    {
+        "id" : 54,
+        "name" : "Maar jayega kutte ki maut",
+        "shortCommand" : "ekdin",
+        "longCommand" : "ekdinmarjayega"
+    },
+
+    {
+        "id" : 55,
+        "name" : "Insaan hai ki Bhagwan",
+        "shortCommand" : "recard",
+        "longCommand" : "jaakedekh"
+    },
+
+    {
+        "id" : 56,
+        "name" : "Marna hai kya BSDK",
+        "shortCommand" : "marnahaikya",
+        "longCommand" : "darrnhilagta"
+    },
+
+    {
+        "id" : 57,
+        "name" : "Murga chahiye mereko",
+        "shortCommand" : "murga",
+        "longCommand" : "murgachahiye"
+    },
+
+    {
+        "id" : 58,
+        "name" : "Paisa barbaad BC",
+        "shortCommand" : "paisa",
+        "longCommand" : "paisabarbad"
+    },
+
+    {
+        "id" : 59,
+        "name" : "Risk hai toh Ishq hai",
+        "shortCommand" : "risk",
+        "longCommand" : "riskishq"
+    },
+
+    {
+        "id" : 60,
+        "name" : "Mera luada",
+        "shortCommand" : "lauda",
+        "longCommand" : "meralauda"
+    },
+
+    {
+        "id" : 61,
+        "name" : "Shuru karte hai Bina BCDi ke",
+        "shortCommand" : "shurukartehai",
+        "longCommand" : "binakisibakchodike"
+    },
+
+    {
+        "id" : 62,
+        "name" : "Tameez ki batti banao",
+        "shortCommand" : "tameez",
+        "longCommand" : "battibanao"
+    },
+
+    {
+        "id" : 63,
+        "name" : "Gaand mai chatri",
+        "shortCommand" : "chatri",
+        "longCommand" : "gaandmecharti"
+    },
+
+    {
+        "id" : 64,
+        "name" : "Kaise hai aap log",
+        "shortCommand" : "toh",
+        "longCommand" : "kaisehaiaap"
+    },
+
+    {
+        "id" : 65,
+        "name" : "Vishudh chutiye ladke ho",
+        "shortCommand" : "chutiye",
+        "longCommand" : "vishudhachutiye"
+    },
+
+    {
+        "id" : 66,
+        "name" : "Ye kya chod failayla",
+        "shortCommand" : "chod",
+        "longCommand" : "yehkyachod"
     }
 ]
