@@ -26,7 +26,7 @@ function CommandsTable() {
         var message = "Copied '"+ toCopy +"' to clipboard.";
         enqueueSnackbar(message, {
             variant: 'success',
-          })
+        })
     }
 
     const tableRows = CommandsDetails.map(index => {
@@ -63,7 +63,9 @@ function CommandsTable() {
                     Optional Command
                 </div>
             </div>
-            {tableRows}
+            <div className="table-div">
+                {tableRows}
+            </div>
         </div>
     )
 }
