@@ -5,7 +5,7 @@ function CommandsTable() {
 
     var CommandsDetails = require('./commandDetails.json');
 
-    const { enqueueSnackbar, closeSnackbar } = useSnackbar();
+    const { enqueueSnackbar } = useSnackbar();
 
 
     // Copy to clipboard
