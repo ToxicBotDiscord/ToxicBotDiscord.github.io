@@ -8,7 +8,7 @@ ReactDOM.render(
     <SnackbarProvider
       maxSnack={1}
       anchorOrigin={{
-        vertical: 'bottom',
+        vertical: 'top',
         horizontal: 'center',
       }}
       autoHideDuration={1500}
@@ -18,5 +18,3 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-
-
